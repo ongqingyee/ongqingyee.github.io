@@ -1,4 +1,3 @@
-
 <!doctype html>
 <html>
   <head>
@@ -47,6 +46,6 @@
         <p>In addition to the changes in the previous section, certain references are auto-linked:</p>
 
       </section>
-      <script src="javascripts/scale.fix.js"></script>
+     <script src="javascripts/scale.fix.js"></script>
   </body>
 </html>
