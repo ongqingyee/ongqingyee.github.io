@@ -48,5 +48,5 @@
 
       </section>
       <script src="javascripts/scale.fix.js"></script>
-    </body>
-  </html>
+  </body>
+</html>
