@@ -3,6 +3,8 @@
   <h3> Incoming PhD student in Climate Science at UNSW Sydney </h3>
   
 </header>
+
+<section>
 # Hello World!
 
 
@@ -19,3 +21,4 @@ Ellie Ong, ["Simplifying the Sea: Idealised Models in Physical Oceanography”](
 
 Ellie Ong, ["On Ozone and Optimisation: Building Machine Learning Parameterisations to Speed Up Climate Change Simulations”](https://issuu.com/compassmagazine5/docs/spreads), Cambridge University Geography Society Compass Magazine, Vol. 4 Issue 2, 2019
 
+</section>
